@@ -7,7 +7,7 @@ import '../styles/components/header.css'
 export default class Header extends React.Component {
     render() {
         return (
-            <Container className="Header">
+            <Container className="Header" fluid>
                 <Row>
                     <Col>
                         <h1 className="url-board">

@@ -1,0 +1,16 @@
+.UrlDetails .add-url-btn{
+    background: transparent;
+    color: #de6754;
+    border: 1px solid #de6754;
+    margin-bottom: 30px;
+    font-size: 20px;
+    transition: all .4s;
+    font-family: 'Oswald', sans-serif;
+}
+
+.UrlDetails .add-url-btn:hover{
+    background: #de6754;
+    color: #fff;
+    border: 1px solid #de6754;
+    box-shadow: none;
+}

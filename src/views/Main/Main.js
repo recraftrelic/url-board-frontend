@@ -10,7 +10,7 @@ export default class Main extends Component {
       <div className="Main">
         <Header />
         <UrlDetails />
-        {/* <Cards /> */}
+        <Cards />
       </div>
     );
   }
