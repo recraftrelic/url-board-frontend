@@ -1,0 +1,15 @@
+.modal.fade.show:focus {
+    outline: 0;
+}
+
+.moda-component {
+    width: 50%;
+    margin: auto;
+}
+
+.moda-component .modal-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+.Header {
+    background: #de6754;
+    margin-bottom: 20px;
+}
+
+.Header .url-board {
+    color: #fff;
+    margin: 0;
+    padding: 20px 0px;
+}
